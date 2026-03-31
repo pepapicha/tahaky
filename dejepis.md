@@ -1,5 +1,3 @@
----
-
 ## 🏰 Absolutismus a velmoci
 
 ### **Ludvík XIV. (Francie)** – "Král Slunce"
