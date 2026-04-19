@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- SEO -->
+    <title>Struktura webové stránky (titulek stránky) | WEB (název celého webu)</title>
+    <meta name="description" content="Základní HTML šablona webové stránky">
+    <meta name="keywords" content="struktura,HTML,element,atribut,web,stránka,šablona">
+    <meta name="author" content="Centrum informačních technologií VeV-VA Vyškov">
+
+    <!-- Future: Favicon https://realfavicongenerator.net -->
+    <link rel="shortcut icon" href="favicon.ico">
+  </head>
+  <body>
+    <!-- Note: Osamostatnění hlavičky urychlí její načtení -->
+    <header>
+      <a href="index.html" title="Úvod"><img src="assets/web.min.png" width="70" height="70" alt="Webové stránky"></a>
+      <p>Identita (webových stránek, osoby, podnikatele, společnosti)</p>
+    </header>
+
+    <main>
+      <h1>Hlavní nadpis stránky</h1>
+
+      <section>
+        <h2>Sekce A</h2>
+
+        <article>
+          <h3>Článek A.1</h3>
+          <p>Text článku A.1</p>
+        </article>
+
+        <article>
+          <h3>Článek A.2</h3>
+          <p>Text článku A.2</p>
+        </article>
+      </section>
+
+      <section>
+        <h2>Sekce B</h2>
+
+        <article>
+          <h3>Článek B.1</h3>
+          <p>Text článku B.1</p>
+        </article>
+
+        <article>
+          <h3>Článek B.2</h3>
+          <p>Text článku B.2</p>
+        </article>
+      </section>
+    </main>
+
+    <nav>
+      <ul>
+        <li><a href="index.html">Úvod</a></li>
+        <li><a href="kontakt.html">Kontakt</a></li>
+      </ul>
+    </nav>
+
+    <aside>
+      <h2>Související obsah</h2>
+
+      <h3>Aktuality</h3>
+      <p>Text</p>
+
+      <h3>Komentáře</h3>
+      <p>Text</p>
+
+      <h3>Kategorie</h3>
+      <p>Text</p>
+
+      <h3>Archiv</h3>
+      <p>Text</p>
+    </aside>
+
+    <footer>&copy; Copyright</footer>
+
+  </body>
+</html>
